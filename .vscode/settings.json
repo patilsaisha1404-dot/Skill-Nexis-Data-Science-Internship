@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "sales_data",
+            "database": "./sales_data.db"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "sql_db",
+            "database": "./Week-2/sales.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
